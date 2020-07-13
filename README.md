@@ -12,6 +12,15 @@ This website allows a user to input a dollar value (USD) to be converted into a 
 * `npm run start`
 - Open in VSCode 
 - index.html in browser chrome to view the page
+## How to Clone Files
+- Navigate to Github
+- Clone the directory called currency_exchanger
+- Open your terminal
+- CD currency_exchanger and open in your VSCode
+- Create your .gitignore file and .env file
+- npm install dotenv-webpack --save-dev
+- Add API key to .env file
+- Commit .gitignore file immediately so API key is hidden
 ## Technologies Used
 - HTML
 - CSS
